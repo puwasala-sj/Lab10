@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab 10</string>
+    <string name="courseweb">The CourseApp</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="registerForm">Register Form</string>
+    <string name="teacher">Teacher</string>
+    <string name="student">Student</string>
+    <string name="welcome">Welcome</string>
+    <string name="send">Send</string>
+    <string name="subject">Subject</string>
+</resources>
